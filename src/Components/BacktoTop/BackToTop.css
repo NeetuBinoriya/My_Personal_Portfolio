@@ -1,0 +1,22 @@
+.back-to-top {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    z-index: 1000;
+  }
+  
+  .back-to-top button {
+    border: none;
+    color: white;
+    border-radius: 50px;
+    background: linear-gradient(264deg, #DF8908 -5.09%, #B415ff 106.28%);
+    font-size: 22px;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+    cursor: pointer;
+  }
+  
+  .back-to-top button:hover {
+    background-color: #0056b3;
+  }
+  
