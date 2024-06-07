@@ -1,5 +1,5 @@
 import project1_img from '../assets/Netflix.png'
-import project2_img from '../assets/Weather_Info.png'
+import project2_img from '../assets/Amzon.png'
 import project3_img from '../assets/Elctronics.png'
 import project4_img from '../assets/CuisinApp.png'
 import project5_img from '../assets/To_do.png'
