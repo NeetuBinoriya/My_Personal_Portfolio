@@ -11,6 +11,7 @@ import BackToTop from './Components/BacktoTop/BackToTop'
 const App = () => {
   return (
     <>
+    <div className="container">
       <Navbar/>
       <Hero/>
       <About/>
@@ -19,6 +20,7 @@ const App = () => {
       <Contact/>
       <Footer/>
       <BackToTop/>
+      </div>
     </>
   )
 }
